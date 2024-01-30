@@ -1,0 +1,58 @@
+body{
+    background-color: #9EB8D9;
+}
+
+.navbar{
+    background-color: #c14642; 
+    
+}
+.navbar-nav .nav-link {
+    border-radius: 20px;
+    margin: 0 8px;
+    color: white;
+}
+
+.navbar-toggler-icon {
+    border-radius: 20px;
+    margin: 0 8px;
+    color: white;
+}
+
+.navbar-toggler {
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.footer{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+/*---------------HOME.HTML---------------*/
+.custom-thumbnail {
+    width: 100%; /* Set your desired width */
+    height: auto; /* Maintain aspect ratio by setting height to auto */
+    margin: auto;
+}
+/*---------------HOME.HTML---------------*/
+
+/*---------------SERVICES.HTML---------------*/
+.sample{
+    width: 80%; /* Set your desired width */
+    height: auto; /* Maintain aspect ratio by setting height to auto */
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.title{
+    font-family: Tahoma;
+    height: auto; /* Maintain aspect ratio by setting height to auto */
+    margin: auto;
+    margin-top: 15px;
+    ;
+}
+
+.subtitle{
+    
+}
+/*---------------SERVICES.HTML---------------*/
